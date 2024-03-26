@@ -1,0 +1,49 @@
+.menuContainer{
+
+}
+
+.menuTrigger{
+    cursor: pointer;
+    width: 200px;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 14px;
+    background: rgb(90, 91, 112);
+
+    color: rgba(242, 242, 242, 0.87);
+    font-family: Roboto,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+.dropdownMenu{
+    position: absolute;
+    box-sizing: border-box;
+    /*right: 20px;*/
+    padding: 10px 20px;
+    width: 200px;
+    background: rgb(90, 91, 112);
+    border-radius: 14px;
+    color: rgba(242, 242, 242, 0.87);
+    font-family: Roboto,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+
+
+}
+
+
+.dropdownMenu ul li{
+    cursor: pointer;
+    padding: 10px 0;
+    border-top: 1px solid rgb(101, 102, 121);
+}
+
+
+.dropdownMenu ul li:hover{
+    color: rgba(169, 163, 163, 0.87);
+}

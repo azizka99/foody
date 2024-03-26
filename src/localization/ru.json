@@ -1,0 +1,27 @@
+{
+  "loginPage_Greeting": "Добро пожаловать, Админ",
+  "loginPage_Username": "Имя Пользователя",
+  "loginPage_Password": "Пароль",
+  "loginPage_Button": "Войти",
+    "loginPage_Username_Empty_ErrorMessage": "Имя пользователя не может быть пустым!",
+  "loginPage_Username_Validate_ErrorMessage": "Имя пользователя должно быть длиной от 3 до 50 символов и содержать только буквы и цифры!",
+  "loginPage_Password_Empty_ErrorMessage": "Пароль не может быть пустым!",
+  "loginPage_Password_Validate_ErrorMessage": "Пароль должен состоять из 8-50 символов!",
+
+  "layoutPage_Button_AddProduct": "ДОБАВИТЬ ПРОДУКТ",
+  "layoutPage_Menu_Dashboard": "Главная",
+  "layoutPage_Menu_Products": "Продукты",
+  "layoutPage_Menu_Restaurants": "Рестораны",
+  "layoutPage_Menu_Category": "Категория",
+  "layoutPage_Menu_Orders": "Заказы",
+  "layoutPage_Menu_Offers": "Предложения",
+  "layoutPage_Menu_Logout": "Выйти",
+
+
+  "categoryPage_Table_Image": "Изображение",
+  "categoryPage_Table_Name": "Имя",
+  "categoryPage_Table_Slug": "Слаг"
+
+
+
+}

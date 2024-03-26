@@ -1,0 +1,26 @@
+{
+  "loginPage_Greeting": "Welcome Admin",
+  "loginPage_Username": "Username",
+  "loginPage_Password": "Password",
+  "loginPage_Button": "Sign-in",
+  "loginPage_Username_Empty_ErrorMessage": "Username can't be Empty!",
+  "loginPage_Username_Validate_ErrorMessage": "Username should be 3-50 character long and contain only letters and numbers!",
+  "loginPage_Password_Empty_ErrorMessage": "Password can't be Empty!",
+  "loginPage_Password_Validate_ErrorMessage": "Password should be 8-50 character long!",
+
+  "layoutPage_Button_AddProduct": "ADD PRODUCT",
+  "layoutPage_Menu_Dashboard": "Dashboard",
+  "layoutPage_Menu_Products": "Products",
+  "layoutPage_Menu_Restaurants": "Restaurants",
+  "layoutPage_Menu_Category": "Category",
+  "layoutPage_Menu_Orders": "Orders",
+  "layoutPage_Menu_Offers": "Offers",
+  "layoutPage_Menu_Logout": "Log out",
+
+
+  "categoryPage_Table_Image": "Image",
+  "categoryPage_Table_Name": "Name",
+  "categoryPage_Table_Slug": "Slug"
+
+
+}

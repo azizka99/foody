@@ -1,0 +1,24 @@
+{
+  "loginPage_Greeting": "Willkommen Admin",
+  "loginPage_Username": "Nutzername",
+  "loginPage_Password": "Passwort",
+  "loginPage_Button": "Anmelden",
+  "loginPage_Username_Empty_ErrorMessage": "Der Benutzername darf nicht leer sein!",
+  "loginPage_Username_Validate_ErrorMessage": "Der Benutzername sollte 3-50 Zeichen lang sein und nur Buchstaben und Zahlen enthalten!",
+  "loginPage_Password_Empty_ErrorMessage": "Das Passwort darf nicht leer sein!",
+  "loginPage_Password_Validate_ErrorMessage": "Das Passwort sollte 8-50 Zeichen lang sein!",
+
+  "layoutPage_Button_AddProduct": "PRODUKT HINZUFÜGEN",
+  "layoutPage_Menu_Dashboard": "Armaturenbrett",
+  "layoutPage_Menu_Products": "Produkte",
+  "layoutPage_Menu_Restaurants": "Restaurants",
+  "layoutPage_Menu_Category": "Kategorie",
+  "layoutPage_Menu_Orders": "Aufträge",
+  "layoutPage_Menu_Offers": "Angebot",
+  "layoutPage_Menu_Logout": "Ausloggen",
+
+
+  "categoryPage_Table_Image": "Bild",
+  "categoryPage_Table_Name": "Name",
+  "categoryPage_Table_Slug": "Slug"
+}

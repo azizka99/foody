@@ -1,0 +1,37 @@
+.cart{
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(57, 57, 57, 0.25);
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 15px;
+    padding: 20px;
+}
+
+.cart > div > h4{
+    color: rgb(30, 30, 48);
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.cart > div > p{
+    color: rgb(130, 130, 130);
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.actions{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.actions > img{
+    cursor: pointer;
+}

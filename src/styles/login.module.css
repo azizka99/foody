@@ -4,3 +4,12 @@
     align-items: center;
     margin-left: 20px;
 }
+
+.myMain{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

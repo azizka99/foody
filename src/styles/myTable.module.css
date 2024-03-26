@@ -1,0 +1,58 @@
+.myTable{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.myTable > thead >tr{
+    width: 100%;
+}
+.myTable  th{
+    padding: 20px;
+}
+.myTable td{
+    padding: 20px;
+    text-align: center;
+}
+
+/*.myTable  th, .myTable  td{*/
+/*    border: 1px solid blue;*/
+/*}*/
+
+.myTable tr{
+    border-bottom: 1px solid black;
+}
+
+.myTable > thead > tr > th{
+    color: rgb(0, 7, 43);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.myTable > tbody > tr > td {
+    color: rgb(0, 7, 43);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.id{
+    padding: 5px;
+    border: 1px solid rgb(223, 226, 233);
+    border-radius: 8px;
+
+    background: rgb(255, 255, 255);
+
+    color: rgb(69, 77, 89);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.action > img{
+    margin-left: 5px;
+    cursor: pointer;
+}

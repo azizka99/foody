@@ -1,0 +1,78 @@
+.up{
+    width: 100%;
+    height: 470px;
+    border-radius: 14px;
+    background: rgb(199, 79, 235);
+}
+
+.up > ul{
+    box-sizing: border-box;
+    width: 100%;
+    height: 80%;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    row-gap: 10px;
+}
+
+.up > ul li{
+    color: rgb(252, 221, 236);
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0.1px;
+
+    padding: 11px;
+    display: flex;
+    column-gap: 20px;
+    cursor: pointer;
+}
+
+.up > ul li:hover{
+    border-radius: 4px;
+
+    background: #cd61ed;
+
+}
+
+
+
+
+/*---------------Down-Starts-Here----------------*/
+.down{
+    width: 100%;
+    height: 80px;
+    border-radius: 14px;
+    background: rgb(39, 40, 60);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 5px;
+}
+.down > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+    color: rgb(199, 199, 199);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 24px;
+}
+.down p{
+    color: rgb(142, 142, 147);
+    font-family: Roboto, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.active{
+    border-radius: 4px;
+
+    background: #cd61ed;
+}

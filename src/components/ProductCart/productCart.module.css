@@ -1,0 +1,35 @@
+.cart{
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(57, 57, 57, 0.25);
+    background: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.cart >h3{
+    color: rgb(30, 30, 48);
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.cart > p{
+    color: rgb(142, 142, 147);
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.cart > div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart > div > p{
+    color: rgb(0, 178, 169);
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+}

@@ -1,0 +1,24 @@
+{
+  "loginPage_Greeting": "Salam Admin",
+  "loginPage_Username": "İstifadəçi adı",
+  "loginPage_Password": "şifrə",
+  "loginPage_Button": "Daxil olun",
+  "loginPage_Username_Empty_ErrorMessage": "İstifadəçi adı Boş ola bilməz!",
+  "loginPage_Username_Validate_ErrorMessage": "İstifadəçi adı 3-50 simvol uzunluğunda olmalı və yalnız hərf və rəqəmlərdən ibarət olmalıdır!",
+  "loginPage_Password_Empty_ErrorMessage": "Şifrə boş ola bilməz!",
+  "loginPage_Password_Validate_ErrorMessage": "Şifrə 8-50 simvol uzunluğunda olmalıdır!",
+
+  "layoutPage_Button_AddProduct": "MƏHSUL ƏLAVƏ EDİN",
+  "layoutPage_Menu_Dashboard": "İdarə paneli",
+  "layoutPage_Menu_Products": "Məhsullar",
+  "layoutPage_Menu_Restaurants": "Restoranlar",
+  "layoutPage_Menu_Category": "Kateqoriya",
+  "layoutPage_Menu_Orders": "Sifarişlər",
+  "layoutPage_Menu_Offers": "Təkliflər",
+  "layoutPage_Menu_Logout": "Çıxış",
+
+
+  "categoryPage_Table_Image": "Şəkil",
+  "categoryPage_Table_Name": "Ad",
+  "categoryPage_Table_Slug": "Slug"
+}
